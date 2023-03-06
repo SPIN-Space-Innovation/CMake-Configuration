@@ -1,0 +1,1 @@
+# SPIN - Space Innovation CMake Configuration
